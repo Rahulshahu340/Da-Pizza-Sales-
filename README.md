@@ -1,4 +1,6 @@
-# Da-Pizza-Sales-
+# Da-Pizza-Sales
+In this project, I conducted a thorough analysis of Da Pizza's sales data to gain a deeper understanding of customer behavior, sales trends, and product performance. By using SQL for querying and data transformation, and Power BI for interactive data visualizations, I was able to provide actionable insights for business decision-making.
+
 Da-Pizza Sales - Data Analysis
 
 # Phase 1: SQL Analysis – Advanced Queries
